@@ -1,0 +1,20 @@
+C:\Users\jairo\source\repos\AppCriptoAnalisis\bin\Debug\AppCriptoAnalisis.exe.config
+C:\Users\jairo\source\repos\AppCriptoAnalisis\bin\Debug\AppCriptoAnalisis.exe
+C:\Users\jairo\source\repos\AppCriptoAnalisis\bin\Debug\AppCriptoAnalisis.pdb
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.csprojAssemblyReference.cache
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.Form.resources
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.Properties.Resources.resources
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.csproj.GenerateResource.cache
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.exe
+C:\Users\jairo\source\repos\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.pdb
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\bin\Debug\AppCriptoAnalisis.exe.config
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\bin\Debug\AppCriptoAnalisis.exe
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\bin\Debug\AppCriptoAnalisis.pdb
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.csprojAssemblyReference.cache
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.Form.resources
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.Properties.Resources.resources
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.csproj.GenerateResource.cache
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.exe
+C:\Users\jairo\OneDrive - Cruz\Universidad\Cenfotec\Maestria\MSEG-02 Principios de Criptografía\Tarea\AppCriptoAnalisis\obj\Debug\AppCriptoAnalisis.pdb
